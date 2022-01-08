@@ -1,0 +1,32 @@
+body{
+    background: white;
+}
+.title{
+    font-family: arial;
+    font-size: 24px;
+    margin: auto;
+    width: 350px;
+    /*outline: 1px dashed;*/
+}
+h2{
+    text-align: center;
+}
+.main-content{
+    width: 650px;
+    font-size: medium;
+    font-family: arial;
+    margin: auto;
+    /*outline: dashed;*/
+}
+label{
+    font-size: medium;
+    font-weight: bold;
+}
+#textarea{
+    margin: 10px 10px 10px 0px;
+}
+/*button{*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    !*flex-wrap: wrap;*!*/
+/*}*/
